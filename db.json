@@ -1,0 +1,24 @@
+{
+  "journals": [
+    {
+      "id": 1,
+      "title": "Testerere",
+      "content": "Test Content"
+    },
+    {
+      "title": "PrAyag",
+      "content": "hzhz",
+      "id": 2
+    },
+    {
+      "title": "Ahs",
+      "content": "Oais",
+      "id": 5
+    },
+    {
+      "title": "Tta",
+      "content": "Osodkd",
+      "id": 7
+    }
+  ]
+}
